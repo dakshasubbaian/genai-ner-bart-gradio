@@ -16,5 +16,9 @@ To design and develop a prototype application for Named Entity Recognition (NER)
 ### PROGRAM:
 
 ### OUTPUT:
+<img width="1163" height="621" alt="image" src="https://github.com/user-attachments/assets/8b1b0a62-9f3a-45b3-a093-037f673a42fb" />
+<img width="1153" height="616" alt="image" src="https://github.com/user-attachments/assets/baa8a793-59e7-4319-8186-dfb323052f7b" />
+
 
 ### RESULT:
+Thus,the program to develop a Named Entity Recognition has been successfully executed.
